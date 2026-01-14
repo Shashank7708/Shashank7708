@@ -25,6 +25,11 @@ I'm a passionate Full Stack Engineer with 4+ years of experience based in Dublin
 - 🌱 Working on microservices and cloud-native applications
 - 💡 Solving algorithmic challenges on LeetCode
 
+🎓 Education
+
+🎓 Master's in Data Analytics - National College of Ireland, September 2025
+🎓 B.E. in Computer Science - Mumbai University, 2020
+
 ### 🛠️ Tech Stack
 
 **💻 Backend**
