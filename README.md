@@ -14,3 +14,62 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi there, I'm Shashank Shetye 👋
+
+## 🚀 Full Stack Engineer | Problem-Solver | Cloud Enthusiast
+
+I'm a passionate Full Stack Engineer with 4 years of experience based in Dublin, specializing in building scalable applications with modern technologies. I love solving complex problems and creating efficient, maintainable solutions.
+
+### 💼 Currently
+- 🔍 Actively looking for opportunities
+- 🌱 Working on microservices and cloud-native applications
+- 💡 Solving algorithmic challenges on LeetCode
+
+### 🛠️ Tech Stack
+
+**Backend**
+- .NET Framework & .NET Core
+- C#
+- RESTful APIs
+- Microservices Architecture
+
+**Frontend**
+- Angular
+- TypeScript
+- HTML
+
+**Database**
+- SQL Server
+- MongoDB
+- Database Design & Optimization
+
+**Cloud & DevOps**
+- Microsoft Azure
+- Docker
+- Kubernetes
+- CI/CD Pipelines
+
+### 📊 GitHub Stats
+
+![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashank7708&show_icons=true&theme=radical)
+
+### 🔥 Featured Projects
+
+- **[Microservice with Docker](https://github.com/Shashank7708/Microservice_with_Docker)** - Containerized microservices architecture using Docker
+- **[.NET Project with Kubernetes](https://github.com/Shashank7708/.NET_Project_microservice_and_kubernetes)** - Scalable .NET microservices deployed on Kubernetes
+- **[LeetCode Solutions](https://github.com/Shashank7708/LeetCodes)** - My collection of algorithmic problem solutions
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-r-shetye-981b35200/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashank7708)
+
+### 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Shashank7708&theme=react-dark)
+
+---
+
+⭐️ From [Shashank7708](https://github.com/Shashank7708)
