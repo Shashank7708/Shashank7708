@@ -28,7 +28,7 @@ I'm a passionate Full Stack Engineer with 4+ years of experience based in Dublin
 ### 🎓 Education
 - 🎓 Master's in Data Analytics - National College of Ireland, Sep 2025
 - 🎓B.E. in Computer Science - Mumbai University, 2020
-- 
+ 
 ### 🛠️ Tech Stack
 
 **💻 Backend**
