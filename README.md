@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Full Stack Engineer | Problem-Solver | Cloud Enthusiast
 
-I'm a passionate Full Stack Engineer with 4+ years of experience based in Dublin, specializing in building scalable applications with modern technologies. I love solving complex problems and creating efficient, maintainable solutions.
+I'm a passionate Full Stack Engineer with hands-on experience in a wide range of tech stacks based in Dublin, specializing in building scalable applications with modern technologies. I love solving complex problems and creating efficient, maintainable solutions.
 
 ### 💼 Currently
 - 🔍 Actively looking for opportunities
