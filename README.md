@@ -59,7 +59,7 @@ I'm a passionate Full Stack Engineer with hands-on experience in a wide range of
 ### 🔥 Featured Projects
 
 - **[Microservice with Docker](https://github.com/Shashank7708/Microservice_with_Docker)** - Containerized microservices architecture using Docker
-- **[Azure WebApp with Ci/Cd pipeline]([https://github.com/Shashank7708/.NET_Project_microservice_and_kubernetes](https://github.com/Shashank7708/EventManagementWebAppWith_AzureCiCd_Pipeline))** - Scalable .NET microservices deployed on Kubernetes
+- **[Azure_WebApp_with_Ci/Cd_pipeline]([https://github.com/Shashank7708/.NET_Project_microservice_and_kubernetes](https://github.com/Shashank7708/EventManagementWebAppWith_AzureCiCd_Pipeline))** - Deployment using Ci/Cd pipeline
 - **[LeetCode Solutions](https://github.com/Shashank7708/LeetCodes)** - My collection of algorithmic problem solutions
 
 ### 📫 Let's Connect
